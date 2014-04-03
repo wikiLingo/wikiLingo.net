@@ -1,0 +1,12 @@
+phpc ^
+/target:dll ^
+/pure+ ^
+/lang:CLR ^
+/out:WikiLingo.dll ^
+/recurse:../wikiLingo\WikiLingo ^
+/recurse:../wikiLingo\WikiLingoWYSIWYG ^
+/recurse:../wikiLingo\WYSIWYGWikiLingo ^
+/recurse:../wikiLingo\Types ^
+/skip:../wikiLingo\WikiLingo\Test ^
+/skip:../wikiLingo\WikiLingoWYSIWYG\Test ^
+/skip:../wikiLingo\WYSIWYGWikiLingo\Test 2>out.log

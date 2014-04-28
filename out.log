@@ -1,0 +1,520 @@
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Accordions.php(29,80): warning PHP0125: Mandatory parameter 'renderer' declared behind optional parameter
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Base.php(361,80): warning PHP0125: Mandatory parameter 'renderer' declared behind optional parameter
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Fullpage.php(30,80): warning PHP0125: Mandatory parameter 'renderer' declared behind optional parameter
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Tabs.php(30,80): warning PHP0125: Mandatory parameter 'renderer' declared behind optional parameter
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(73,18): warning PHP0022: Function 'WikiLingo\get_class' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(80,27): warning PHP0022: Function 'WikiLingo\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(81,23): warning PHP0022: Function 'WikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(102,29): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(153,26): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(154,23): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(160,32): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(163,32): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(190,26): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(191,23): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(197,32): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(200,32): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(213,19): warning PHP0022: Function 'WikiLingo\str_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(28,14): warning PHP0011: Method 'WikiLingo\Definition::__construct' declares too many local variables (232) which may lead to suboptimal performace
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5130,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5134,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5138,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5592,131): warning PHP0022: Function 'WikiLingo\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5643,25): warning PHP0022: Function 'WikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5646,25): warning PHP0022: Function 'WikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5650,25): warning PHP0022: Function 'WikiLingo\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5721,18): warning PHP0022: Function 'WikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5722,13): warning PHP0022: Function 'WikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5737,16): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5738,18): warning PHP0022: Function 'WikiLingo\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5739,23): warning PHP0022: Function 'WikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5742,27): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5745,21): warning PHP0022: Function 'WikiLingo\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5746,26): warning PHP0022: Function 'WikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5747,24): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5747,48): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5751,77): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5776,17): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5776,37): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5776,56): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5777,17): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5777,52): warning PHP0022: Function 'WikiLingo\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5777,77): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5783,13): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5784,22): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5784,63): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5786,16): warning PHP0022: Function 'WikiLingo\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5786,41): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5786,65): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5794,34): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5817,27): warning PHP0022: Function 'WikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5819,49): warning PHP0022: Function 'WikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5819,72): warning PHP0022: Function 'WikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5828,27): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5829,26): warning PHP0022: Function 'WikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5838,21): warning PHP0022: Function 'WikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5838,36): warning PHP0022: Function 'WikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5848,31): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5884,16): warning PHP0022: Function 'WikiLingo\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5900,16): warning PHP0022: Function 'WikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5920,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5923,21): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5928,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5931,27): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5935,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5938,21): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5942,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5945,21): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5949,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5957,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5966,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5975,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5985,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(5993,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6002,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6017,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6025,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6033,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6041,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6050,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6059,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6068,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6071,17): warning PHP0022: Function 'WikiLingo\end' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6072,13): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6075,13): warning PHP0022: Function 'WikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6082,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6091,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6099,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6108,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6116,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6124,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6128,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6137,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6145,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6154,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6163,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6171,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6180,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6189,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6197,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6206,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6215,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6223,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6232,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6241,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6250,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6260,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6269,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6277,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6286,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6295,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6300,9): warning PHP0022: Function 'WikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6305,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6315,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6324,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6332,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6341,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6350,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6359,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6368,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6377,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6387,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6397,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6407,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6416,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6426,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6432,27): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6437,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6446,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6456,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6464,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6484,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6493,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6500,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6504,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6506,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6513,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6515,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6517,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6711,19): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6716,22): warning PHP0022: Function 'WikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6730,21): warning PHP0022: Function 'WikiLingo\max' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6737,10): warning PHP0022: Function 'WikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6741,7): warning PHP0022: Function 'WikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6749,16): warning PHP0022: Function 'WikiLingo\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Events.php(45,22): warning PHP0022: Function 'WikiLingo\str_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Events.php(45,44): warning PHP0022: Function 'WikiLingo\get_class' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionInstantiator.php(42,17): warning PHP0022: Function 'WikiLingo\class_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parsed.php(208,10): warning PHP0022: Function 'WikiLingo\array_shift' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(99,37): warning PHP0022: Function 'WikiLingo\ini_get' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(100,9): warning PHP0022: Function 'WikiLingo\ini_set' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(105,18): warning PHP0022: Function 'WikiLingo\str_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(107,32): warning PHP0022: Function 'WikiLingo\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(68,47): warning PHP0022: Function 'WikiLingo\method_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(79,74): warning PHP0022: Function 'WikiLingo\end' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(112,35): warning PHP0022: Function 'WikiLingo\method_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(135,13): warning PHP0022: Function 'WikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(138,46): warning PHP0022: Function 'WikiLingo\method_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Block.php(66,21): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Block.php(69,14): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Block.php(85,43): warning PHP0022: Function 'WikiLingo\Expression\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Code.php(22,33): warning PHP0022: Function 'WikiLingo\Expression\json_decode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Code.php(50,13): warning PHP0022: Function 'WikiLingo\Expression\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Code.php(53,33): warning PHP0022: Function 'WikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Code.php(68,21): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Code.php(68,35): warning PHP0022: Function 'WikiLingo\Expression\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Color.php(20,17): warning PHP0022: Function 'WikiLingo\Expression\array_shift' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Color.php(25,21): warning PHP0022: Function 'WikiLingo\Expression\array_shift' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Color.php(29,24): warning PHP0022: Function 'WikiLingo\Expression\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Link.php(21,18): warning PHP0022: Function 'WikiLingo\Expression\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Link.php(24,65): warning PHP0022: Function 'WikiLingo\Expression\array_shift' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Link.php(25,18): warning PHP0022: Function 'WikiLingo\Expression\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(42,17): warning PHP0022: Function 'WikiLingo\Expression\json_decode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(42,29): warning PHP0022: Function 'WikiLingo\Expression\urldecode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(42,39): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(60,41): warning PHP0020: Class 'FLP\UI' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(69,46): warning PHP0020: Class 'Phraser\Phrase' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(72,26): warning PHP0020: Class 'FLP\Metadata' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(74,13): warning PHP0020: Class 'FLP\Events' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(75,25): warning PHP0020: Class 'FLP\Pair' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(76,13): warning PHP0020: Class 'FLP\Pairs' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(78,30): warning PHP0020: Class 'FLP\PairAssembler' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(79,42): warning PHP0020: Class 'Phraser\Phrase' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(80,40): warning PHP0020: Class 'Phraser\Phrase' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(91,34): warning PHP0022: Function 'WikiLingo\Expression\json_encode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(92,31): warning PHP0022: Function 'WikiLingo\Expression\json_encode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(92,43): warning PHP0020: Class 'FLP\PairAssembler' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\PastLink.php(131,17): warning PHP0020: Class 'FLP\SendToPast' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(55,47): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(57,19): warning PHP0022: Function 'WikiLingo\Expression\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(58,51): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(62,22): warning PHP0022: Function 'WikiLingo\Expression\class_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(70,29): warning PHP0022: Function 'WikiLingo\Expression\md5' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(87,35): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(90,35): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(110,18): warning PHP0022: Function 'WikiLingo\Expression\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(110,31): warning PHP0022: Function 'WikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(114,27): warning PHP0022: Function 'WikiLingo\Expression\ucfirst' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(114,35): warning PHP0022: Function 'WikiLingo\Expression\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(122,13): warning PHP0022: Function 'WikiLingo\Expression\method_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(149,13): warning PHP0022: Function 'WikiLingo\Expression\method_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(166,54): warning PHP0022: Function 'WikiLingo\Expression\array_merge' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Plugin.php(205,11): warning PHP0022: Function 'WikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\SpecialChar.php(21,32): warning PHP0022: Function 'WikiLingo\Expression\htmlspecialchars' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Tag.php(30,18): warning PHP0022: Function 'WikiLingo\Expression\preg_split' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Tag.php(30,39): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Tag.php(33,27): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Tag.php(60,46): warning PHP0022: Function 'WikiLingo\Expression\htmlspecialchars' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Tag.php(65,20): warning PHP0022: Function 'WikiLingo\Expression\htmlspecialchars' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Variable.php(19,48): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\WikiLink.php(21,18): warning PHP0022: Function 'WikiLingo\Expression\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\WikiLink.php(24,65): warning PHP0022: Function 'WikiLingo\Expression\array_shift' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\WikiLink.php(25,18): warning PHP0022: Function 'WikiLingo\Expression\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\WikiLinkType.php(34,18): warning PHP0022: Function 'WikiLingo\Expression\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\Header.php(43,24): warning PHP0022: Function 'WikiLingo\Expression\BlockType\min' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\Header.php(43,28): warning PHP0022: Function 'WikiLingo\Expression\BlockType\max' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\Header.php(64,19): warning PHP0022: Function 'WikiLingo\Expression\BlockType\strip_tags' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\Header.php(90,31): warning PHP0022: Function 'WikiLingo\Expression\BlockType\urlencode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\Header.php(90,41): warning PHP0022: Function 'WikiLingo\Expression\BlockType\strip_tags' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\Header.php(100,44): warning PHP0022: Function 'WikiLingo\Expression\BlockType\urlencode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\ListContainer.php(42,75): warning PHP0123: The variable $this used out of method
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\ListContainer.php(60,63): warning PHP0123: The variable $this used out of method
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\ListContainer.php(76,28): warning PHP0022: Function 'WikiLingo\Expression\BlockType\method_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\BlockType\ListItem.php(43,32): warning PHP0022: Function 'WikiLingo\Expression\BlockType\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(28,14): warning PHP0011: Method 'WikiLingo\ExpressionParser\TableBase::__construct' declares too many local variables (79) which may lead to suboptimal performace
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(613,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(619,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(629,22): warning PHP0118: Missing parameter(s) to the call of the class 'WikiLingo\ExpressionParser\TableRows' constructor - at least 1 required but only 0 provided
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(850,131): warning PHP0022: Function 'WikiLingo\ExpressionParser\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(901,25): warning PHP0022: Function 'WikiLingo\ExpressionParser\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(904,25): warning PHP0022: Function 'WikiLingo\ExpressionParser\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(908,25): warning PHP0022: Function 'WikiLingo\ExpressionParser\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(981,18): warning PHP0022: Function 'WikiLingo\ExpressionParser\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(982,13): warning PHP0022: Function 'WikiLingo\ExpressionParser\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(992,24): warning PHP0022: Function 'WikiLingo\ExpressionParser\array_slice' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(998,16): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(999,18): warning PHP0022: Function 'WikiLingo\ExpressionParser\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1000,23): warning PHP0022: Function 'WikiLingo\ExpressionParser\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1003,27): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1006,21): warning PHP0022: Function 'WikiLingo\ExpressionParser\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1007,26): warning PHP0022: Function 'WikiLingo\ExpressionParser\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1008,24): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1008,48): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1009,26): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1009,52): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1013,77): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1037,17): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1037,43): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1037,68): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1038,17): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1038,52): warning PHP0022: Function 'WikiLingo\ExpressionParser\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1038,77): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1044,13): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1045,22): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1045,51): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1047,16): warning PHP0022: Function 'WikiLingo\ExpressionParser\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1047,41): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1047,65): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1055,34): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1078,27): warning PHP0022: Function 'WikiLingo\ExpressionParser\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1079,13): warning PHP0022: Function 'WikiLingo\ExpressionParser\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1080,49): warning PHP0022: Function 'WikiLingo\ExpressionParser\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1080,72): warning PHP0022: Function 'WikiLingo\ExpressionParser\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1089,27): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1090,26): warning PHP0022: Function 'WikiLingo\ExpressionParser\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1099,21): warning PHP0022: Function 'WikiLingo\ExpressionParser\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1099,36): warning PHP0022: Function 'WikiLingo\ExpressionParser\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1110,31): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1115,28): warning PHP0022: Function 'WikiLingo\ExpressionParser\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1115,62): warning PHP0022: Function 'WikiLingo\ExpressionParser\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1146,16): warning PHP0022: Function 'WikiLingo\ExpressionParser\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1162,16): warning PHP0022: Function 'WikiLingo\ExpressionParser\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1181,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1189,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1211,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1221,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1231,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1239,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1247,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1254,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1262,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1270,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1278,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1286,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1291,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1303,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1308,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1313,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1318,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1326,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionParser\TableBase.php(1331,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Base.php(318,23): warning PHP0022: Function 'WikiLingo\Plugin\array_merge' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Base.php(348,45): warning PHP0022: Function 'WikiLingo\Plugin\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Base.php(395,106): warning PHP0022: Function 'WikiLingo\Plugin\urlencode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Base.php(395,116): warning PHP0022: Function 'WikiLingo\Plugin\json_encode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\ExpandingOutline.php(22,21): warning PHP0020: Class 'WikiLingo\Plugin\JisonParser_Wiki_Handler' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\ExpandingOutline.php(23,27): warning PHP0020: Class 'WikiLingo\Plugin\WikiPlugin_expandingoutline_list' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\ExpandingOutline.php(18,21): warning PHP0180: Declaration of WikiLingo\Plugin\ExpandingOutline::render() should be compatible with that of WikiLingo\Plugin\Base::render()
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Fullpage.php(63,32): warning PHP0022: Function 'WikiLingo\Plugin\json_encode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Slider.php(36,34): warning PHP0022: Function 'WikiLingo\Plugin\htmlspecialchars' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Template.php(45,31): warning PHP0022: Function 'WikiLingo\Plugin\max' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Template.php(45,38): warning PHP0022: Function 'WikiLingo\Plugin\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Outline\Block.php(27,13): warning PHP0022: Function 'WikiLingo\Plugin\Outline\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Outline\Block.php(28,13): warning PHP0022: Function 'WikiLingo\Plugin\Outline\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Outline\Block.php(69,32): warning PHP0022: Function 'WikiLingo\Plugin\Outline\method_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Base.php(25,26): warning PHP0022: Function 'WikiLingo\Renderer\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(75,35): warning PHP0022: Function 'WikiLingo\Renderer\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(80,18): warning PHP0022: Function 'WikiLingo\Renderer\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(81,57): warning PHP0022: Function 'WikiLingo\Renderer\addslashes' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(81,68): warning PHP0022: Function 'WikiLingo\Renderer\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(88,21): warning PHP0022: Function 'WikiLingo\Renderer\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(89,57): warning PHP0022: Function 'WikiLingo\Renderer\addslashes' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(89,68): warning PHP0022: Function 'WikiLingo\Renderer\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(95,25): warning PHP0022: Function 'WikiLingo\Renderer\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Html.php(17,18): warning PHP0022: Function 'WikiLingo\Utilities\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Html.php(17,31): warning PHP0022: Function 'WikiLingo\Utilities\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Html.php(18,18): warning PHP0022: Function 'WikiLingo\Utilities\array_filter' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Html.php(20,24): warning PHP0022: Function 'WikiLingo\Utilities\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Html.php(23,28): warning PHP0022: Function 'WikiLingo\Utilities\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Html.php(24,33): warning PHP0022: Function 'WikiLingo\Utilities\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Html.php(25,28): warning PHP0022: Function 'WikiLingo\Utilities\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameter.php(30,47): warning PHP0022: Function 'WikiLingo\Utilities\gettype' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameter.php(44,40): warning PHP0022: Function 'WikiLingo\Utilities\strip_tags' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameter.php(45,40): warning PHP0022: Function 'WikiLingo\Utilities\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Scripts.php(54,45): warning PHP0022: Function 'WikiLingo\Utilities\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Scripts.php(56,43): warning PHP0022: Function 'WikiLingo\Utilities\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Scripts.php(144,61): warning PHP0022: Function 'WikiLingo\Utilities\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Scripts.php(158,101): warning PHP0022: Function 'WikiLingo\Utilities\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Base.php(20,27): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(223,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(229,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(313,131): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(364,25): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(367,25): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(371,25): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(442,18): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(443,13): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(458,16): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(459,18): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(460,23): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(463,27): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(466,21): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(467,26): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(468,24): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(468,48): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(472,77): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(497,17): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(497,37): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(497,56): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(498,17): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(498,52): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(498,77): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(504,13): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(505,22): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(505,63): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(507,16): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(507,41): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(507,65): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(515,34): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(538,27): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(540,49): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(540,72): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(549,27): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(550,26): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(559,21): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(559,36): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(569,31): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(605,16): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(621,16): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(657,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(661,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(665,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(672,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(697,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(709,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(907,19): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(912,22): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(926,21): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\max' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(933,10): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(937,7): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Utilities\Parameters\Definition.php(945,16): warning PHP0022: Function 'WikiLingo\Utilities\Parameters\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\Events.php(22,22): warning PHP0022: Function 'WikiLingoWYSIWYG\str_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\Events.php(22,44): warning PHP0022: Function 'WikiLingoWYSIWYG\get_class' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionSyntaxes.php(29,12): warning PHP0022: Function 'WikiLingoWYSIWYG\scandir' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionSyntaxes.php(35,22): warning PHP0022: Function 'WikiLingoWYSIWYG\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionType.php(32,26): warning PHP0022: Function 'WikiLingoWYSIWYG\urlencode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionSyntax\Plugin.php(18,16): warning PHP0022: Function 'WikiLingoWYSIWYG\ExpressionSyntax\dirname' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionSyntax\Plugin.php(18,24): warning PHP0022: Function 'WikiLingoWYSIWYG\ExpressionSyntax\dirname' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionSyntax\Plugin.php(19,18): warning PHP0022: Function 'WikiLingoWYSIWYG\ExpressionSyntax\scandir' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionSyntax\Plugin.php(28,17): warning PHP0022: Function 'WikiLingoWYSIWYG\ExpressionSyntax\strpos' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingoWYSIWYG\ExpressionSyntax\Plugin.php(29,25): warning PHP0022: Function 'WikiLingoWYSIWYG\ExpressionSyntax\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(48,11): warning PHP0022: Function 'WYSIWYGWikiLingo\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(48,22): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(48,29): warning PHP0022: Function 'WYSIWYGWikiLingo\str_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(50,23): warning PHP0022: Function 'WYSIWYGWikiLingo\end' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(52,16): warning PHP0022: Function 'WYSIWYGWikiLingo\strpos' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(63,34): warning PHP0022: Function 'WYSIWYGWikiLingo\max' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(64,16): warning PHP0022: Function 'WYSIWYGWikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(75,40): warning PHP0022: Function 'WYSIWYGWikiLingo\max' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(76,9): warning PHP0022: Function 'WYSIWYGWikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(84,3): warning PHP0022: Function 'WYSIWYGWikiLingo\end' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(85,14): warning PHP0022: Function 'WYSIWYGWikiLingo\key' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(100,18): warning PHP0022: Function 'WYSIWYGWikiLingo\get_class' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(107,23): warning PHP0022: Function 'WYSIWYGWikiLingo\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Base.php(108,23): warning PHP0022: Function 'WYSIWYGWikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(28,14): warning PHP0011: Method 'WYSIWYGWikiLingo\Definition::__construct' declares too many local variables (51) which may lead to suboptimal performace
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(408,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(412,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(416,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(582,131): warning PHP0022: Function 'WYSIWYGWikiLingo\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(633,25): warning PHP0022: Function 'WYSIWYGWikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(636,25): warning PHP0022: Function 'WYSIWYGWikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(640,25): warning PHP0022: Function 'WYSIWYGWikiLingo\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(711,18): warning PHP0022: Function 'WYSIWYGWikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(712,13): warning PHP0022: Function 'WYSIWYGWikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(727,16): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(728,18): warning PHP0022: Function 'WYSIWYGWikiLingo\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(729,23): warning PHP0022: Function 'WYSIWYGWikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(732,27): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(735,21): warning PHP0022: Function 'WYSIWYGWikiLingo\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(736,26): warning PHP0022: Function 'WYSIWYGWikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(737,24): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(737,48): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(741,77): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(766,17): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(766,37): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(766,56): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(767,17): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(767,52): warning PHP0022: Function 'WYSIWYGWikiLingo\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(767,77): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(773,13): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(774,22): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(774,63): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(776,16): warning PHP0022: Function 'WYSIWYGWikiLingo\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(776,41): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(776,65): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(784,34): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(807,27): warning PHP0022: Function 'WYSIWYGWikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(809,49): warning PHP0022: Function 'WYSIWYGWikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(809,72): warning PHP0022: Function 'WYSIWYGWikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(818,27): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(819,26): warning PHP0022: Function 'WYSIWYGWikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(828,21): warning PHP0022: Function 'WYSIWYGWikiLingo\count' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(828,36): warning PHP0022: Function 'WYSIWYGWikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(838,31): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(874,16): warning PHP0022: Function 'WYSIWYGWikiLingo\is_null' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(890,16): warning PHP0022: Function 'WYSIWYGWikiLingo\array_pop' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(916,25): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(921,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(957,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(974,25): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(980,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(987,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(989,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(991,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1000,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1002,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1004,1): warning PHP0008: Unreachable code detected
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1198,19): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1203,22): warning PHP0022: Function 'WYSIWYGWikiLingo\strlen' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1217,21): warning PHP0022: Function 'WYSIWYGWikiLingo\max' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1224,10): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1228,7): warning PHP0022: Function 'WYSIWYGWikiLingo\preg_match' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Definition.php(1236,16): warning PHP0022: Function 'WYSIWYGWikiLingo\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Parsed.php(20,13): warning PHP0022: Function 'WYSIWYGWikiLingo\class_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Parser.php(17,19): warning PHP0120: Class 'WYSIWYGWikiLingo\Events' has no constructor defined - using default constructor and ignoring arguments
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Events.php(10,1): (related location)
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Parser.php(79,23): warning PHP0022: Function 'WYSIWYGWikiLingo\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Base.php(33,21): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\class_exists' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(40,16): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\strpos' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(42,24): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(42,29): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(43,33): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(43,38): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(48,31): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(55,17): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(58,17): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(60,24): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(67,20): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(70,21): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(71,55): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(71,60): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\array_shift' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(71,25): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\Element.php(71,30): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\array_shift' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\InlineElement.php(32,16): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\strpos' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\InlineElement.php(34,33): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\trim' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\InlineElement.php(34,38): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\substr' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\InlineElement.php(37,17): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Expression\InlineElement.php(39,24): warning PHP0022: Function 'WYSIWYGWikiLingo\Expression\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Block.php(28,31): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\str_repeat' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Block.php(31,31): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\str_repeat' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Block.php(34,31): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\str_repeat' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\DescriptionList.php(31,13): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Header.php(31,20): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\str_repeat' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Plugin.php(21,55): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Plugin.php(25,38): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\strtolower' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Plugin.php(25,84): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\strtoupper' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Plugin.php(28,37): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\json_decode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Plugin.php(28,49): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\urldecode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Plugin.php(45,39): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\SpecialChar.php(15,16): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\htmlspecialchars_decode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Table.php(21,17): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Table.php(24,23): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\implode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\Tag.php(15,16): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\html_entity_decode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\WikiLink.php(19,11): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\WikiLinkType.php(19,11): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\preg_replace' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\Types\Type.php(77,13): warning PHP0022: Function 'Types\explode' is unknown at this point at compile-time
+c:\Users\robert.plummer\Documents\GitHub\wikiLingo\Types\Type.php(78,12): warning PHP0022: Function 'Types\array_pop' is unknown at this point at compile-time
+error PHP2007: Internal error! 
+Please, report this bug via http://www.codeplex.com/WorkItem/List.aspx?ProjectName=Phalanger.
+Additional information: 
+Object reference not set to an instance of an object.
+   at PHP.Core.Emit.ClrStubBuilder.GetStubParameterTypes(Int32 paramCount, Int32 typeParamCount, PhpRoutineSignature signature, List`1 formalTypeParams)
+   at PHP.Core.Emit.ClrStubBuilder.<DefineMethodExportStubs>d__4.MoveNext()
+   at PHP.Core.Emit.PhpObjectBuilder.DefineExportedConstructors(PhpType phpType)
+   at PHP.Core.Reflection.PhpType.DefineBuilders()
+   at PHP.Core.Reflection.PureCompilationUnit.DefineBuilders()
+   at PHP.Core.Reflection.PureCompilationUnit.Compile(IEnumerable`1 sourceFiles, PureAssemblyBuilder assemblyBuilder, CompilationContext context, Encoding encoding)
+   at PHP.Core.Emit.PureAssemblyBuilder.Build(IEnumerable`1 sourceFiles, CompilationContext context)
+   at PHP.Core.ApplicationCompiler.Compile(ApplicationContext applicationContext, CompilerConfiguration config, ErrorSink errorSink, CompilationParameters ps)
+

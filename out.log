@@ -2,7 +2,7 @@ C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Accordions.p
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Base.php(361,80): warning PHP0125: Mandatory parameter 'renderer' declared behind optional parameter
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Fullpage.php(30,80): warning PHP0125: Mandatory parameter 'renderer' declared behind optional parameter
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Plugin\Tabs.php(30,80): warning PHP0125: Mandatory parameter 'renderer' declared behind optional parameter
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(44,34): warning PHP0020: Class 'Testify\Testify' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(81,34): warning PHP0020: Class 'Testify\Testify' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Test\TypeNamespace.php(31,31): warning PHP0020: Class 'Testify\Testify' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(73,18): warning PHP0022: Function 'WikiLingo\get_class' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Base.php(80,27): warning PHP0022: Function 'WikiLingo\explode' is unknown at this point at compile-time
@@ -154,7 +154,7 @@ C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Definition.php(6813
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Events.php(45,22): warning PHP0022: Function 'WikiLingo\str_replace' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Events.php(45,44): warning PHP0022: Function 'WikiLingo\get_class' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\ExpressionInstantiator.php(42,17): warning PHP0022: Function 'WikiLingo\class_exists' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parsed.php(208,10): warning PHP0022: Function 'WikiLingo\array_shift' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parsed.php(211,10): warning PHP0022: Function 'WikiLingo\array_shift' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(102,8): warning PHP0022: Function 'WikiLingo\defined' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(103,4): warning PHP0008: Unreachable code detected
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(117,18): warning PHP0022: Function 'WikiLingo\str_replace' is unknown at this point at compile-time
@@ -163,7 +163,7 @@ C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(130,8): 
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Parser.php(131,4): warning PHP0008: Unreachable code detected
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(68,46): warning PHP0022: Function 'WikiLingo\method_exists' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(129,35): warning PHP0022: Function 'WikiLingo\method_exists' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(151,46): warning PHP0022: Function 'WikiLingo\method_exists' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer.php(153,46): warning PHP0022: Function 'WikiLingo\method_exists' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Base.php(112,31): warning PHP0022: Function 'WikiLingo\Expression\get_class' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Block.php(66,21): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Expression\Block.php(69,53): warning PHP0022: Function 'WikiLingo\Expression\substr' is unknown at this point at compile-time
@@ -321,9 +321,11 @@ C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.ph
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(89,57): warning PHP0022: Function 'WikiLingo\Renderer\addslashes' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(89,68): warning PHP0022: Function 'WikiLingo\Renderer\trim' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Renderer\Element.php(95,25): warning PHP0022: Function 'WikiLingo\Renderer\implode' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(28,25): warning PHP0022: Function 'WikiLingo\Test\dirname' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(29,21): warning PHP0022: Function 'WikiLingo\Test\scandir' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(48,12): warning PHP0022: Function 'WikiLingo\Test\substr' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(29,22): warning PHP0022: Function 'WikiLingo\Test\scandir' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(40,16): warning PHP0022: Function 'WikiLingo\Test\dirname' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(61,21): warning PHP0022: Function 'WikiLingo\Test\substr' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(70,28): warning PHP0022: Function 'WikiLingo\Test\get_declared_classes' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\TypeNamespace.php(72,16): warning PHP0022: Function 'WikiLingo\Test\strpos' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\VisualFeedbackTable.php(65,30): warning PHP0022: Function 'WikiLingo\Test\htmlentities' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\VisualFeedbackTable.php(65,43): warning PHP0022: Function 'WikiLingo\Test\implode' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WikiLingo\Test\VisualFeedbackTable.php(66,31): warning PHP0022: Function 'WikiLingo\Test\htmlentities' is unknown at this point at compile-time
@@ -525,9 +527,7 @@ C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenera
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\WikiLink.php(19,11): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\preg_replace' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\SyntaxGenerator\WikiLinkType.php(19,11): warning PHP0022: Function 'WYSIWYGWikiLingo\SyntaxGenerator\preg_replace' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Test\HtmlToWikiTest.php(15,31): warning PHP0020: Class 'WYSIWYGWikiLingo\Test\OutputTest' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Test\TypeNamespace.php(20,25): warning PHP0022: Function 'WYSIWYGWikiLingo\Test\dirname' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Test\TypeNamespace.php(21,21): warning PHP0022: Function 'WYSIWYGWikiLingo\Test\scandir' is unknown at this point at compile-time
-C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Test\TypeNamespace.php(36,13): warning PHP0022: Function 'WYSIWYGWikiLingo\Test\substr' is unknown at this point at compile-time
+C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Test\TypeNamespace.php(23,16): warning PHP0022: Function 'WYSIWYGWikiLingo\Test\dirname' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\WYSIWYGWikiLingo\Test\SyntaxGenerator\Headers.php(16,21): warning PHP0022: Function 'WYSIWYGWikiLingo\Test\SyntaxGenerator\str_replace' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\Types\Type.php(77,13): warning PHP0022: Function 'Types\explode' is unknown at this point at compile-time
 C:\Users\robert.plummer\Documents\GitHub\wikiLingo\Types\Type.php(78,12): warning PHP0022: Function 'Types\array_pop' is unknown at this point at compile-time

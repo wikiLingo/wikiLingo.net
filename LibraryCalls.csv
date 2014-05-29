@@ -4,13 +4,14 @@ htmlspecialchars_decode;1;1
 strtoupper;1;1
 str_repeat;2;4
 key;1;1
-strpos;2;4
 implode;1;2
 gettype;1;1
 array_filter;2;1
 htmlentities;1;5
-scandir;1;4
+strpos;2;5
+get_declared_classes;0;1
 dirname;1;4
+scandir;1;3
 addslashes;1;2
 trim;2;1
 array_slice;2;1
@@ -41,7 +42,7 @@ implode;2;19
 str_replace;3;6
 substr;2;17
 strlen;1;63
-substr;3;55
+substr;3;54
 trim;1;10
 array_pop;1;23
 explode;2;20

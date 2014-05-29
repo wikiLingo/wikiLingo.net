@@ -42,7 +42,7 @@ str_replace;3;6
 substr;2;17
 strlen;1;63
 substr;3;55
-trim;1;9
+trim;1;10
 array_pop;1;23
 explode;2;20
-get_class;1;4
+get_class;1;5

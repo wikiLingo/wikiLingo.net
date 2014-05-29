@@ -1,4 +1,4 @@
-phpc ^
+..\Phalanger\Source\PhpNetCompiler\obj\Debug)\phpc ^
 /target:dll ^
 /pure+ ^
 /lang:CLR ^
@@ -7,6 +7,4 @@ phpc ^
 /recurse:../wikiLingo\WikiLingoWYSIWYG ^
 /recurse:../wikiLingo\WYSIWYGWikiLingo ^
 /recurse:../wikiLingo\Types ^
-/skip:../wikiLingo\WikiLingo\Test ^
-/skip:../wikiLingo\WikiLingoWYSIWYG\Test ^
-/skip:../wikiLingo\WYSIWYGWikiLingo\Test 2>out.log
+/r:../Phalanger\Source\ClassLibrary\obj\Debug)\PhpNetClassLibrary.dll 2>out.log
